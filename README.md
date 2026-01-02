@@ -24,4 +24,14 @@ Algoritma, rastgeleliğin doğrulanması için aşağıdaki testlerden geçirilm
 - **Monobit Testi (0/1 Dengesi):** Üretilen 100.000 bitlik dizide 0 ve 1 sayılarının yaklaşık %50 oranında dağıldığı gözlemlenmiştir.
 - **Runs Test:** Ardışık bit değişimleri kontrol edilerek patern oluşmadığı doğrulanmıştır.
 <img width="217" height="537" alt="image" src="https://github.com/user-attachments/assets/2f656356-e2a6-4b10-81b7-23000fc724ce" />
+<img width="541" height="666" alt="image" src="https://github.com/user-attachments/assets/e6bc8722-f46b-4ed1-b859-a96b164b1046" />
+<img width="416" height="607" alt="image" src="https://github.com/user-attachments/assets/a333d67e-8e69-4edd-bf44-3f312e88e225" />
+<img width="476" height="632" alt="image" src="https://github.com/user-attachments/assets/29d6d413-844b-4351-88b2-6348e585d5a3" />
+<img width="569" height="710" alt="image" src="https://github.com/user-attachments/assets/0c6ec431-121f-4a8a-ad42-954b45b16926" />
+<img width="381" height="461" alt="image" src="https://github.com/user-attachments/assets/0f76be80-11e9-40ec-91fe-1c44961bee3a" />
+
+
+
+
+
 
