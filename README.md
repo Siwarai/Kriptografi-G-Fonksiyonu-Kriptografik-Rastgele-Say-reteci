@@ -23,4 +23,5 @@ Bu üreteç, Kerckhoffs ilkesine uygun olarak tasarlanmıştır. Algoritmanın t
 Algoritma, rastgeleliğin doğrulanması için aşağıdaki testlerden geçirilmiştir:
 - **Monobit Testi (0/1 Dengesi):** Üretilen 100.000 bitlik dizide 0 ve 1 sayılarının yaklaşık %50 oranında dağıldığı gözlemlenmiştir.
 - **Runs Test:** Ardışık bit değişimleri kontrol edilerek patern oluşmadığı doğrulanmıştır.
+<img width="217" height="537" alt="image" src="https://github.com/user-attachments/assets/2f656356-e2a6-4b10-81b7-23000fc724ce" />
 
