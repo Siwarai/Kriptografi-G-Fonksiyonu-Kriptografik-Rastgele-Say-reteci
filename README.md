@@ -1,0 +1,1 @@
+# Kriptografi-G-Fonksiyonu-Kriptografik-Rastgele-Say-reteci
